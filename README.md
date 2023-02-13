@@ -11,3 +11,4 @@ A database is made to store the invention details like the name of the invention
 - [Srinivas Machiraju](https://github.com/srinivasmachiraju)
 
 - [Satya Pramod](https://github.com/satya1612)
+find . -type f -name \*.gif -printf "%f\n" | LC_ALL=C sort -f | rev | cut -b 5- | rev
